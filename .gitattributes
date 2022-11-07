@@ -3,3 +3,4 @@ SM_Good_Froge.png filter=lfs diff=lfs merge=lfs -text
 SM_Good_Froge.fbx filter=lfs diff=lfs merge=lfs -text
 SM_Good_Froge_LP.fbx filter=lfs diff=lfs merge=lfs -text
 SM_Good_Froge_LP_Trimmed.glb filter=lfs diff=lfs merge=lfs -text
+Good_Froge_In_Sponza/scene.glb filter=lfs diff=lfs merge=lfs -text
